@@ -45,7 +45,7 @@ These archetypes can be played together and are piloted in different ways depend
 
   Keep building physique, and then select the Immortal Fate "Wan Xuan Demon Breaking Palm" after reaching Incarnation Phase. 
 
-  Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time.
+  Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards. Other cards used could include physique gain or multi-hits that synergize with attack up.
 
   Early game -\
   
