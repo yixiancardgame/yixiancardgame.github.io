@@ -5,7 +5,7 @@ hasChild: True
 ---
 
 
-# James Park｜ is gay
+# Bobo Yuan ｜ is gay
 
 <table>
     <tr>
